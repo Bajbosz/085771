@@ -1,3 +1,3 @@
 theme: jekyll-theme-midnight
-- nazwa: generuj-sitemap
-  używa: cicirello/generate-sitemap@v1.6.2
+- name: generate-sitemap
+  uses: cicirello/generate-sitemap@v1.6.2
